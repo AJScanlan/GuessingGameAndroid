@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="enter_player_one">Enter Player 1 Number:</string>
+    <string name="enter_player_two">Enter Player 2 Number:</string>
+    <string name="go_button">Go</string>
+    <string name="number_limit">Number Limit:</string>
+    <string name="number_default">Numbers default to 1</string>
+    <string name="limit_default">Limit defaults to 1000</string>
+</resources>
